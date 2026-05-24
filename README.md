@@ -1,4 +1,4 @@
-# CEI Internship Project
+# CEI Internship Assignments 
 
 ## 📌 Overview
 
